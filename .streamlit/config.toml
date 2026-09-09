@@ -1,6 +1,12 @@
 [theme]
-primaryColor = "#b45309"
-backgroundColor = "#fffaf0"
-secondaryBackgroundColor = "#f3ead7"
-textColor = "#292524"
-font = "sans serif"
+base = "dark"
+primaryColor = "#f59e0b"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#e2e8f0"
+borderColor = "#334155"
+codeBackgroundColor = "#111827"
+font = "sans-serif"
+baseRadius = "8px"
+buttonRadius = "8px"
+showWidgetBorder = true
